@@ -1,0 +1,72 @@
+#main {
+
+    margin: 0;
+    padding: 0;
+    border: solid 1px #c6cbd3;
+    border-spacing: 0;
+    text-align: center;
+}
+
+th {
+    border: solid 1px #c6cbd3;
+    margin: 0;
+    padding: 9px;
+    font-family: helvetica;
+    font-size: 15px;
+    background-color: #e3e9f2;
+
+}
+
+td {
+    border: solid 1px #c6cbd3;
+    font-family: helvetica;
+    font-size: 14px;
+    padding: 8px;
+}
+
+#note_heading {
+    width: 280px;
+    height: 50px;
+}
+
+tr.odd {
+
+    background-color: #f7f9fc;
+
+}
+
+tr.even {
+    background-color: #fcfcfc;
+
+}
+
+.row_heading {
+    background-color: #e3e9f2;
+    font-weight: bold;
+}
+
+.blank {
+    background-color: #f7f9fc;
+}
+
+.name {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+}
+
+.name_head {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    border-top: solid 2px black;
+}
+
+.name_bot {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    border-bottom: solid 2px black;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+}
